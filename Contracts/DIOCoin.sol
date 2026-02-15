@@ -1,3 +1,7 @@
+/// @title DIOCoin ERC20 Token
+/// @author Kaique Neves
+/// @notice ERC20 token implementation for educational purposes
+/// @dev Developed during DIO Binance Blockchain Bootcamp
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 
